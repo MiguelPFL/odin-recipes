@@ -1,0 +1,30 @@
+.disclaimer,
+.title, 
+.owner
+{
+  text-align: center;
+}
+
+.disclaimer {
+  background-color: yellow;
+  color:red;
+  font-weight: bold;
+  text-align: center;
+}
+
+.image,
+.image2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image {
+  width: 20%;
+  height: 20%;
+}
+
+.image2 {
+  width: 350px;
+  height: 300px;
+}
