@@ -28,3 +28,26 @@
   width: 350px;
   height: 300px;
 }
+
+#kagami {
+  border: 7px solid #d3b5f1;
+}
+
+#headline {
+  background-color: #d3b5f1;
+  width: 200px;
+  height: 50px;
+  margin: 25px auto;
+}
+
+.recipe-text {
+  text-align: center;
+  background: #c96974;
+  width: 200px;
+  height: 50px;
+  margin: 50px auto;
+}
+
+.recipe-text2 {
+  text-align: center;
+}

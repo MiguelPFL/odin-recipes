@@ -4,3 +4,6 @@ Made using HTML with TOP. index.html contains the front page of the recipes list
 
 July 17, 2024
 Added minor changes using CSS
+
+July 21, 2024
+Added minor changes to index.html with learnings from box model CSS.
